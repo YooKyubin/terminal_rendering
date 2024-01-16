@@ -1,2 +1,2 @@
 # terminal_rendering
-![terminalCube_screenShot](terminalCube.gif) </br>
+![cube_screenShot](ube.gif) </br>
